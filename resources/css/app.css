@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+html{
+    scroll-behavior: smooth;
+}
+.rye{
+font-family: 'Rye', sans-serif;
+}
+.norican{
+    font-family: 'Norican', sans-serif;
+}
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+  text-indent: .75em;
+}
+@tailwind utilities;
