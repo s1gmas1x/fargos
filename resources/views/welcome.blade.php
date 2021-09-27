@@ -43,8 +43,8 @@
             <a class="hover:bg-red-700 border-r border-gray-900 inline-block" href="#menu"><div class="px-4"><h3 class="">Menu</h3></div></a>
             <a class="hover:bg-red-700 border-r border-gray-900 inline-block" href="#reservations"><div class="px-4"><h3 class="">Reservations</h3></div></a>
             <a class="hover:bg-red-700 border-r border-gray-900 inline-block" href="#history"><div class="px-4"><h3 class="">History</h3></div></a>
-            <a class="hover:bg-red-700 border-r border-gray-900 inline-block" href="#"><div class="px-4"><h3 class="">Gallery</h3></div></a>
-            <a class="hover:bg-red-700 inline-block" href="#"><div class="px-4"><h3 class="">Contact</h3></div></a>
+            <a class="hover:bg-red-700 border-r border-gray-900 inline-block" href="#gallery"><div class="px-4"><h3 class="">Gallery</h3></div></a>
+            <a class="hover:bg-red-700 inline-block" href="#contact"><div class="px-4"><h3 class="">Contact</h3></div></a>
             
         </nav>
     </div>
@@ -275,7 +275,7 @@
     </section>
     <section class="">
         <h1 id="history" class="text-5xl text-center norican mt-48 font-semibold">History</h1>
-        <div class="mx-4 md:mx-24 mt-12">
+        <div class="mx-4 md:mx-24 mt-12 text-sm">
             <img class="float-left h-96 m-2" src="images/334.jpg" alt="">
         <p class="mt-2">Two brothers from the “Show Me” State of Missouri have built a living monument to pizza, a veritable showplace, at the foot of Pike’s Peak in the Rocky Mountains.</p>
 
@@ -302,11 +302,17 @@
           <p class="mt-2">This has been instilled in the employees at Fargo’s. “You don’t give excuses to the public,” said Leon. “You give service.” </p>
          </div> 
     </section>
+    <section>
+    <h1 id="gallery" class="text-5xl text-center norican mt-48 font-semibold">Gallery</h1>
+    </section>
+    <section>
+        <h1 id="contact" class="text-5xl text-center norican mt-48 font-semibold">Contact</h1>
+    </section>
 </div>
 </main>    
    
     <footer
-    class=" bg-gray-900 text-3xl text-yellow-200  inset-x-0 bottom-0 p-4">
+    class=" bg-gray-900 text-3xl text-yellow-200  inset-x-0 bottom-0 p-4 mt-8">
     <div class="flex xl:mx-72">
     <div class="ml-8 mr-auto block">
         <h4 class="text-2xl">Location</h4>

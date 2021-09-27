@@ -12,7 +12,5 @@ font-family: 'Rye', sans-serif;
 .montserrat{
     font-family: 'Montserrat', sans-serif;
 }
-p {
-  text-indent: .75em;
-}
+
 @tailwind utilities;
