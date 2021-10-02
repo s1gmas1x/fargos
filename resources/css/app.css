@@ -12,5 +12,8 @@ font-family: 'Rye', sans-serif;
 .montserrat{
     font-family: 'Montserrat', sans-serif;
 }
+.flip-horizontally {
+  transform: scaleX(-1);
+}
 
 @tailwind utilities;

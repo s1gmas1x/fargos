@@ -605,6 +605,10 @@ html{
   font-family: 'Montserrat', sans-serif;
 }
 
+.flip-horizontally {
+  transform: scaleX(-1);
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
