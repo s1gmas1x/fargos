@@ -609,6 +609,10 @@ html{
   transform: scaleX(-1);
 }
 
+small{
+  font-weight: 400;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
