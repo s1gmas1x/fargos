@@ -15,6 +15,7 @@ font-family: 'Rye', sans-serif;
 .flip-horizontally {
   transform: scaleX(-1);
 }
+
 small{
     font-weight: 400;
 }

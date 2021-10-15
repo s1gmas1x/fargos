@@ -402,6 +402,7 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 <!--scripts -->
 <script src="{{ asset('js/app.js') }}" defer></script>
+<script src="{{ asset('js/img.js') }}" defer></script>
 </head>
 
 <body class="bg-yellow-50 min-h-screen montserrat text-gray-900">
@@ -429,7 +430,7 @@
                 </svg>
             </button>
         </div>
-        <div x-show="isOpen" @click.away="isOpen = false"  @click="isOpen = false" x-transition.duration.500ms class="fixed md:hidden right-8 top-28 bg-red-900 bg-opacity-40 border border-gray-900 w-96 backdrop-filter backdrop-blur-md z-10 text-center text-gray-900 font-semibold rounded-lg">
+        <div x-show="isOpen" @click.away="isOpen = false"  @click=" isOpen = false " x-transition.duration.500ms class="fixed md:hidden right-8 top-28 bg-red-900 bg-opacity-40 border border-gray-900 w-96 backdrop-filter backdrop-blur-md z-10 text-center text-gray-900 font-semibold rounded-lg">
             <div class="block border-gray-900 border-b py-2"><a href="#home" class="">Home</a></div>
             <div class="block py-2 border-gray-900 border-b"><a href="#menu">Menu</a></div>
             <div class="block py-2 border-gray-900 border-b"><a href="https://slicelife.com/restaurants/co/colorado-springs/80909/fargo-s-pizza/menu?utm_campaign=order_now_button&utm_medium=referral&utm_source=www.fargospizza.com">Order</a></div>
@@ -795,8 +796,23 @@
                         public,” said Leon. “You give service.” </p>
             </div>
         </section>
-        <section class="h-screen" id="gallery">
+        <section class="w-full" id="gallery">
             <h1 class="text-5xl text-center norican mt-48 pt-10 font-semibold">Gallery</h1>
+            <div class="container text-center mx-auto mt-8 w-full">
+            <div class="main_img block">
+                <img src="images/img1.jpg" id="current" class="mx-auto" alt="">
+            </div>
+            <div class="thumbs container text-center h-32 flex mt-2 w-full overflow-auto lg:overflow-hidden cursor-pointer">
+                <img src="images/img1.jpg" class="object-scale-down px-1" alt="">
+                <img src="images/img2.jpg" class="object-scale-down px-1 opacity-50" alt="">
+                <img src="images/img3.jpg" class="object-scale-down px-1 opacity-50" alt="">
+                <img src="images/img4.jpg" class="object-scale-down px-1 opacity-50" alt="">
+                <img src="images/img5.jpg" class="object-scale-down px-1 opacity-50" alt="">
+                <img src="images/img6.jpg" class="object-scale-down px-1 opacity-50" alt="">
+                <img src="images/img7.jpg" class="object-scale-down px-1 opacity-50" alt="">
+                <img src="images/img8.jpg" class="object-scale-down px-1 opacity-50" alt="">
+            </div>
+            </div>
         </section>
         <section id="contact" class="">
             <h1 class="text-5xl text-center norican mt-48 pt-10 font-semibold">Contact</h1>
@@ -841,4 +857,5 @@
             </div>
         </div>
     </footer>
+    
 </body>
