@@ -421,23 +421,23 @@
             <svg class="h-64 w-96 text-red-900 absolute -top-10 right-5  filter drop-shadow-lg" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650.82 212" stroke="currentColor"><path class="a" d="M650.4,157.66a50.83,50.83,0,0,0-3-12.08,58.52,58.52,0,0,0-13.63-20.73A58.08,58.08,0,0,0,624,117a76.63,76.63,0,0,0-22.82-9.86,100.18,100.18,0,0,0-24.59-3,101.6,101.6,0,0,0-12.34.64l-6.13.67-6.07,1c-1,.18-2,.33-3,.54l-3,.68c-2,.48-4,.89-6,1.42-3.93,1.13-7.9,2.17-11.75,3.54a232.5,232.5,0,0,0-22.72,9L500,124.28c-1.84.87-3.64,1.79-5.46,2.68-.88.42-1.75.86-2.61,1.29-1.53-1.22-3.08-2.41-4.67-3.55a103.58,103.58,0,0,0-12.17-7.4,113.72,113.72,0,0,0-26.49-9.56,140.85,140.85,0,0,0-27.53-3.43,181.1,181.1,0,0,0-27.3,1.45,229.94,229.94,0,0,0-26.47,5c-8.65,2.11-17.12,4.56-25.43,7.21-16.66,5.25-32.64,11.22-48.48,16.37q-47.58,15.85-95.81,29.34c-8,2.36-16.12,4.41-24.2,6.57-4,1.14-8.11,2.06-12.17,3.1s-8.11,2.08-12.19,3c-8.15,1.93-16.3,3.91-24.5,5.7-4.1.9-8.19,1.86-12.3,2.72l-12.33,2.61c-32.94,7-66.26,12.44-100,18.18l.1,3.1c1.83.18,3.65.33,5.48.48l6.55,2c3.83,1.21,7.71,2.24,11.57,3.37s7.76,2.07,11.66,3.07l5.84,1.49L47,220.53q23.52,5.4,47.5,8.66a563.23,563.23,0,0,0,96.54,4.69,572.36,572.36,0,0,0,189-39.35c15-5.92,29.82-12.57,44.28-19.82,3.64-1.76,7.21-3.66,10.78-5.55l5.37-2.83c1.78-1,3.54-2,5.31-2.92q10.59-5.85,21-11.9,6-3.49,12.12-6.91c1.89,1.38,3.75,2.83,5.54,4.36a93.77,93.77,0,0,1,26.29,37.36A86.47,86.47,0,0,1,515.67,232a89.11,89.11,0,0,1-19.87,42.23,97.86,97.86,0,0,1-38.55,28.07c-15,5.94-31.71,7.9-47.56,4a69.61,69.61,0,0,1-11.58-3.77l-2.74-1.31-1.38-.66-1.32-.76L390,298.24l-2.49-1.73-1.25-.88-1.17-1-2.33-2-2.14-2.17-1.07-1.09-.95-1.18-1.9-2.39-1.65-2.57c-.27-.43-.56-.85-.82-1.29l-.68-1.37-1.37-2.75L369.32,279l1.26,3.05.64,1.53c.25.49.52,1,.78,1.45l1.6,2.91,1.89,2.73.95,1.36,1.08,1.26,2.17,2.53,2.39,2.3,1.21,1.16,1.29,1,2.6,2.08,2.75,1.86,1.39.93,1.44.82,2.9,1.63a75.79,75.79,0,0,0,12.31,5,82,82,0,0,0,13,2.83c2.21.2,4.42.54,6.65.58l3.34.13,3.35-.07a94.64,94.64,0,0,0,26.24-4.69,107.74,107.74,0,0,0,44.72-28.81,100.07,100.07,0,0,0,22.48-102.3A113.12,113.12,0,0,0,498.55,134c1.65-.84,3.29-1.7,4.95-2.51l5.36-2.57a231.6,231.6,0,0,1,21.87-9.06c3.69-1.41,7.46-2.48,11.22-3.65,1.88-.55,3.79-1,5.69-1.48l2.85-.72c1-.23,1.92-.38,2.88-.58l5.77-1.12,5.82-.76a95.29,95.29,0,0,1,11.67-.86,98.74,98.74,0,0,1,23.16,2.21,71.15,71.15,0,0,1,21.44,8.5,56.52,56.52,0,0,1,22.48,25.7,46.7,46.7,0,0,1,3.23,11.09,44.41,44.41,0,0,1,.57,5.76l0,2.9c0,1-.18,1.92-.25,2.88a37.51,37.51,0,0,1-3.12,11.12,42.93,42.93,0,0,1-6.4,9.76,40.38,40.38,0,0,1-9,7.59,32.82,32.82,0,0,1-22.78,5,33.52,33.52,0,0,0,23.47-3.8,41.24,41.24,0,0,0,9.7-7.45,44.81,44.81,0,0,0,7.23-10,38.74,38.74,0,0,0,3.87-11.81c.13-1,.33-2,.39-3.09l.16-3.12A49.85,49.85,0,0,0,650.4,157.66ZM462.56,144.1c-7,3.9-14,7.89-21,11.7-1.75.95-3.5,1.93-5.26,2.85L431,161.42c-3.53,1.84-7.05,3.7-10.64,5.41L415,169.46c-1.79.88-3.58,1.75-5.39,2.57l-10.86,5-11,4.71c-3.66,1.55-7.39,3-11.07,4.47q-22.2,8.79-45.08,15.77c-15.22,4.69-30.69,8.54-46.25,12s-31.26,6.23-47.05,8.38-31.69,3.64-47.61,4.58c-8,.51-15.94.73-23.92.92l-12,.08-12-.14q-23.94-.51-47.83-2.93c-15.92-1.51-31.76-3.87-47.52-6.72L41.62,217l-5.89-1.21c-3.92-.81-7.86-1.57-11.75-2.51s-7.84-1.72-11.73-2.71l-5-1.26,5.59.44,6.42.45c2.15.13,4.28.19,6.43.29,4.28.19,8.57.32,12.86.47s8.58.08,12.88.12c8.59.1,17.16-.24,25.76-.47,4.3-.13,8.59-.43,12.88-.66s8.6-.44,12.88-.85l12.86-1.09c4.29-.37,8.55-.93,12.84-1.39,8.57-.86,17.08-2.17,25.62-3.36,4.28-.56,8.51-1.38,12.77-2.07s8.51-1.38,12.74-2.23c8.46-1.66,16.93-3.3,25.35-5.21,16.86-3.69,33.53-8.24,50.05-13.27S288,169.59,304,163.18s31.54-13.33,47-19.25c7.72-3,15.41-5.75,23.16-8.05a203.42,203.42,0,0,1,23.32-5.58,155.06,155.06,0,0,1,23.46-2.23,117.71,117.71,0,0,1,23,1.89,91.73,91.73,0,0,1,21.62,6.78c1.8.85,3.59,1.76,5.34,2.74Q466.72,141.77,462.56,144.1Z" transform="translate(0.05 -125)"/></svg>
         </div>
         <div x-data="{ isOpen: false}">
-        <div class="inline md:hidden mr-6 mt-8 right-0 fixed bg-red-900 bg-opacity-40 border border-gray-900 rounded-lg backdrop-filter backdrop-blur-sm z-10">
+        <div class="inline md:hidden mr-6 mt-8 right-0 fixed bg-red-900 text-yellow-200 bg-opacity-40 border border-gray-900 rounded-lg backdrop-filter backdrop-blur-sm z-10 transition ease-in-out duration-300 hover:bg-red-800 hover:opacity-80 active:bg-red-900 active:text-yellow-50">
             
             <button @click=" isOpen = !isOpen " class="" href="">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16 text-yellow-200 -mb-2 " fill="none" viewBox="0 0 24 24"
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-16 w-16  -mb-2 " fill="currentColor" viewBox="0 0 24 24"
                 stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
                 </svg>
             </button>
         </div>
         <div x-show="isOpen" @click.away="isOpen = false"  @click=" isOpen = false " x-transition.duration.500ms class="fixed md:hidden right-8 top-28 bg-red-900 bg-opacity-40 border border-gray-900 w-96 backdrop-filter backdrop-blur-md z-10 text-center text-gray-900 font-semibold rounded-lg">
-            <div class="block border-gray-900 border-b py-2"><a href="#home" class="">Home</a></div>
-            <div class="block py-2 border-gray-900 border-b"><a href="#menu">Menu</a></div>
-            <div class="block py-2 border-gray-900 border-b"><a href="https://slicelife.com/restaurants/co/colorado-springs/80909/fargo-s-pizza/menu?utm_campaign=order_now_button&utm_medium=referral&utm_source=www.fargospizza.com">Order</a></div>
-            <div class="block py-2 border-gray-900 border-b"><a href="#reservations">Reservations</a></div>
-            <div class="block py-2 border-gray-900 border-b"><a href="#history">History</a></div>
-            <div class="block py-2 border-gray-900 border-b"><a href="#gallery">Gallery</a></div>
-            <div class="block py-2 border-gray-900"><a href="#contact">Contact</a></div>
+            <a href="#home" class="block border-gray-900 border-b py-2 hover:bg-red-700 hover:opacity-60 active:bg-red-900 active:text-gray-400 transition ease-in-out duration-300"><h4 class="">Home</h4></a>
+            <a href="#menu" class="block py-2 border-gray-900 border-b hover:bg-red-700 hover:opacity-60 active:bg-red-900 active:text-gray-400 transition ease-in-out duration-300"><h4 class="">Menu</h4></a>
+            <a href="https://slicelife.com/restaurants/co/colorado-springs/80909/fargo-s-pizza/menu?utm_campaign=order_now_button&utm_medium=referral&utm_source=www.fargospizza.com" class="block py-2 border-gray-900 border-b hover:bg-red-700 active:bg-red-900 active:text-gray-400 hover:opacity-60 transition ease-in-out duration-300"><h4 class="">Order</h4></a>
+            <a href="#reservations" class="block py-2 border-gray-900 border-b hover:bg-red-700 hover:opacity-60 active:bg-red-900 active:text-gray-200 transition ease-in-out duration-300"><h4 class="">Reservations</h4></a>
+            <a href="#history" class="block py-2 border-gray-900 border-b hover:bg-red-700 hover:opacity-60 active:bg-red-900 active:text-gray-400 transition ease-in-out duration-300"><h4 class="">History</h4></a>
+            <a href="#gallery" class="block py-2 border-gray-900 border-b hover:bg-red-700 hover:opacity-60 active:bg-red-900 active:text-gray-400 transition ease-in-out duration-300"><h4 class="">Gallery</h4></a>
+            <a href="#contact" class="block py-2 border-gray-900 border-b hover:bg-red-700 hover:opacity-60 active:bg-red-900 active:text-gray-400 transition ease-in-out duration-300"><h4 class="">Contact</h4></a>
         </div>
         </div>
     </header>
@@ -446,40 +446,40 @@
     <nav
         class="hidden md:inline-block mx-auto mt-2 py-1 text-sm bg-red-900 bg-opacity-90 border-b-2 border-t-2 border-l border-r rounded-sm border-gray-900 text-yellow-200 backdrop-filter  backdrop-blur-sm">
         
-        <a class="hover:bg-red-700 border-r border-gray-900 inline-block transition ease-in-out duration-500" href="#home">
-            <div class="px-4 op">
+        <a class="px-4 hover:bg-red-700 border-r  border-gray-900 inline-block transition ease-in-out duration-300 active:bg-red-900 active:text-yellow-50" href="#home">
+            
                 <h3 class="">Home</h3>
-            </div>
+            
         </a>
-        <a class="hover:bg-red-700 border-r border-gray-900 inline-block transition ease-in-out duration-500" href="#menu">
-            <div class="px-4">
+        <a class="px-4 hover:bg-red-700 border-r border-gray-900 inline-block transition ease-in-out duration-300 active:bg-red-900 active:text-yellow-50" href="#menu">
+            
                 <h3 class="">Menu</h3>
-            </div>
+            
         </a>
-        <a class="hover:bg-red-700 border-r border-gray-900 inline-block transition ease-in-out duration-500" href="https://slicelife.com/restaurants/co/colorado-springs/80909/fargo-s-pizza/menu?utm_campaign=order_now_button&utm_medium=referral&utm_source=www.fargospizza.com">
-            <div class="px-4">
+        <a class="px-4 hover:bg-red-700 border-r border-gray-900 inline-block transition ease-in-out duration-300 active:bg-red-900 active:text-yellow-50" href="https://slicelife.com/restaurants/co/colorado-springs/80909/fargo-s-pizza/menu?utm_campaign=order_now_button&utm_medium=referral&utm_source=www.fargospizza.com">
+            
                 <h3 class="">Order</h3>
-            </div>
+            
         </a>
-        <a class="hover:bg-red-700 border-r border-gray-900 inline-block transition ease-in-out duration-500" href="#reservations">
-            <div class="px-4">
+        <a class="px-4 hover:bg-red-700 border-r border-gray-900 inline-block transition ease-in-out duration-300 active:bg-red-900 active:text-yellow-50" href="#reservations">
+            
                 <h3 class="">Reservations</h3>
-            </div>
+            
         </a>
-        <a class="hover:bg-red-700 border-r border-gray-900 inline-block transition ease-in-out duration-500" href="#history">
-            <div class="px-4">
+        <a class="px-4 hover:bg-red-700 border-r border-gray-900 inline-block transition ease-in-out duration-300 active:bg-red-900 active:text-yellow-50" href="#history">
+            
                 <h3 class="">History</h3>
-            </div>
+            
         </a>
-        <a class="hover:bg-red-700 border-r border-gray-900 inline-block transition ease-in-out duration-500" href="#gallery">
-            <div class="px-4">
+        <a class="px-4 hover:bg-red-700 border-r border-gray-900 inline-block transition ease-in-out duration-300 active:bg-red-900 active:text-yellow-50" href="#gallery">
+            
                 <h3 class="">Gallery</h3>
-            </div>
+            
         </a>
-        <a class="hover:bg-red-700 inline-block transition ease-in-out duration-500" href="#contact">
-            <div class="px-4">
+        <a class="px-4 hover:bg-red-700 inline-block transition ease-in-out duration-300 active:bg-red-900 active:text-yellow-50" href="#contact">
+            
                 <h3 class="">Contact</h3>
-            </div>
+            
         </a>
     </nav>
 </div>
@@ -623,21 +623,27 @@
             <div class="grid md:grid-cols-2 lg:grid-cols-3 md:mx-24 text-center">
                 <div class="p-4">
                     <h3>French Dip</h3>
+                    <small>Roast beef, served with au jus.</small>
                 </div>
                 <div class="p-4">
                     <h3>Barbecue Beef & Cheddar</h3>
+                    <small>Roast beef, barbecue sauce, and melted chedder.</small>
                 </div>
                 <div class="p-4">
                     <h3>Bacon Lettuce & Tomato</h3>
+                    <small>Bacon, lettuce, tomato, and mayo.</small>
                 </div>
                 <div class="p-4">
                     <h3>Ham & Cheese</h3>
+                    <small>Ham, cheddar or provolone, and lettuce.</small>
                 </div>
                 <div class="p-4">
                     <h3>Italian Sub</h3>
+                    <small>Ham, salami, pepperoni, provolone, lettuce, tomato, and mayo.</small>
                 </div>
                 <div class="p-4">
                     <h3>Turkey</h3>
+                    <small>Turkey, lettuce, and mayo.</small>
                 </div>
             </div>
 
@@ -671,12 +677,15 @@
             <div class="grid md:grid-cols-2 lg:grid-cols-3 md:mx-24 text-center">
                 <div class="p-4">
                     <h3>Small Salad</h3>
+                    <small>One time through.</small>
                 </div>
                 <div class="p-4">
                     <h3>Large Salad</h3>
+                    <small>One time through.</small>
                 </div>
                 <div class="p-4">
                     <h3>To Go Salad</h3>
+                    <small>One time through.</small>
                 </div>
             </div>
 
@@ -726,12 +735,15 @@
             <div class="grid md:grid-cols-2 lg:grid-cols-3 md:mx-24 text-center">
                 <div class="p-4">
                     <h3>Ice Cream</h3>
+                    <small>Vanilla, chocolate, or strawberry. One or two dips.</small>
                 </div>
                 <div class="p-4">
                     <h3>Sundaes</h3>
+                    <small>Choice of ice cream (vanilla, chocolate, or strawberry) and topping (hot fudge, strawberry, chocolate, or butterscotch), whipped cream, chopped peanuts, and a cherry. Also available as a cake sundae.</small>
                 </div>
                 <div class="p-4">
                     <h3>Floats</h3>
+                    <small>Choice of one dip of ice cream in choice of soft drink.</small>
                 </div>
                 <div class="p-4">
                     <h3>Cakes</h3>
@@ -740,7 +752,7 @@
         </section>
         <section id="reservations" class="font-semibold">
             <h1 class="text-5xl text-center norican mt-48 pt-10">Reservations</h1>
-            <p class="text-center mt-12 mx-12">Fargo’s is now taking reservations by phone. Call <a href="tel:+17194735540" class="text-blue-800">(719)473-5540</a> to schedule your
+            <p class="text-center mt-12 mx-12">Fargo’s is now taking reservations by phone. Call <a href="tel:+17194735540" class="text-blue-800 hover:text-blue-600 active:text-blue-400">(719)473-5540</a> to schedule your
                 gathering today. Please call between 11am and 2pm to speak with reservations about our party spaces.</p>
         </section>
         <section id="history" class="font-semibold">
@@ -799,18 +811,18 @@
         <section class="w-full" id="gallery">
             <h1 class="text-5xl text-center norican mt-48 pt-10 font-semibold">Gallery</h1>
             <div class="container text-center mx-auto mt-8 w-full">
-            <div class="main_img block">
-                <img src="images/img1.jpg" id="current" class="mx-auto" alt="">
+            <div class="main_img block" >
+                <img src="images/img1.jpg" id="current" class="mx-auto"  alt="">
             </div>
             <div class="thumbs container text-center h-32 flex mt-2 w-full overflow-auto lg:overflow-hidden cursor-pointer">
-                <img src="images/img1.jpg" class="object-scale-down px-1" alt="">
-                <img src="images/img2.jpg" class="object-scale-down px-1 opacity-50" alt="">
-                <img src="images/img3.jpg" class="object-scale-down px-1 opacity-50" alt="">
-                <img src="images/img4.jpg" class="object-scale-down px-1 opacity-50" alt="">
-                <img src="images/img5.jpg" class="object-scale-down px-1 opacity-50" alt="">
-                <img src="images/img6.jpg" class="object-scale-down px-1 opacity-50" alt="">
-                <img src="images/img7.jpg" class="object-scale-down px-1 opacity-50" alt="">
-                <img src="images/img8.jpg" class="object-scale-down px-1 opacity-50" alt="">
+                <img src="images/img1.jpg" class="object-scale-down px-1 transition ease-in-out duration-300" alt="">
+                <img src="images/img2.jpg" class="object-scale-down px-1 opacity-50 transition ease-in-out duration-300" alt="">
+                <img src="images/img3.jpg" class="object-scale-down px-1 opacity-50 transition ease-in-out duration-300" alt="">
+                <img src="images/img4.jpg" class="object-scale-down px-1 opacity-50 transition ease-in-out duration-300" alt="">
+                <img src="images/img5.jpg" class="object-scale-down px-1 opacity-50 transition ease-in-out duration-300" alt="">
+                <img src="images/img6.jpg" class="object-scale-down px-1 opacity-50 transition ease-in-out duration-300" alt="">
+                <img src="images/img7.jpg" class="object-scale-down px-1 opacity-50 transition ease-in-out duration-300" alt="">
+                <img src="images/img8.jpg" class="object-scale-down px-1 opacity-50 transition ease-in-out duration-300" alt="">
             </div>
             </div>
         </section>
@@ -819,17 +831,17 @@
             <div class="grid md:grid-cols-2 lg:grid-cols-3 md:mx-24 text-center font-semibold text-gray-900">
                  <div class="py-8">
                         <h2 class="text-3xl text-center norican my-4">Phone</h2>
-                        <p><a href="tel:+17194735540">(719)473-5540</a></p> 
+                        <p><a href="tel:+17194735540" class="transition ease-in-out duration-300 hover:text-gray-600 active:text-gray-400">(719)473-5540</a></p> 
                     </div>
                 <div class="py-8">
                     
                     <h2 class="text-3xl text-center norican my-4">Social Media</h2>
-                    <div class=""><div class="flex flex-row justify-center">
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/fargospizza">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-24 w-24 px-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z"/></svg>
+                    <div class=""><div class="flex flex-row justify-center ">
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/fargospizza" class="">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-24 w-24 px-4 transition ease-in-out duration-300 hover:text-gray-600 active:text-gray-400" fill="currentColor" viewBox="0 0 24 24"><path class="" d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z"/></svg>
                         </a>
-                   <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/fargospizzacompany/"> 
-                       <svg xmlns="http://www.w3.org/2000/svg" class="h-24 w-24 px-4" fill="currentColor" viewBox="0 0 24 24"><path d="M14.829 6.302c-.738-.034-.96-.04-2.829-.04s-2.09.007-2.828.04c-1.899.087-2.783.986-2.87 2.87-.033.738-.041.959-.041 2.828s.008 2.09.041 2.829c.087 1.879.967 2.783 2.87 2.87.737.033.959.041 2.828.041 1.87 0 2.091-.007 2.829-.041 1.899-.086 2.782-.988 2.87-2.87.033-.738.04-.96.04-2.829s-.007-2.09-.04-2.828c-.088-1.883-.973-2.783-2.87-2.87zm-2.829 9.293c-1.985 0-3.595-1.609-3.595-3.595 0-1.985 1.61-3.594 3.595-3.594s3.595 1.609 3.595 3.594c0 1.985-1.61 3.595-3.595 3.595zm3.737-6.491c-.464 0-.84-.376-.84-.84 0-.464.376-.84.84-.84.464 0 .84.376.84.84 0 .463-.376.84-.84.84zm-1.404 2.896c0 1.289-1.045 2.333-2.333 2.333s-2.333-1.044-2.333-2.333c0-1.289 1.045-2.333 2.333-2.333s2.333 1.044 2.333 2.333zm-2.333-12c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.958 14.886c-.115 2.545-1.532 3.955-4.071 4.072-.747.034-.986.042-2.887.042s-2.139-.008-2.886-.042c-2.544-.117-3.955-1.529-4.072-4.072-.034-.746-.042-.985-.042-2.886 0-1.901.008-2.139.042-2.886.117-2.544 1.529-3.955 4.072-4.071.747-.035.985-.043 2.886-.043s2.14.008 2.887.043c2.545.117 3.957 1.532 4.071 4.071.034.747.042.985.042 2.886 0 1.901-.008 2.14-.042 2.886z"/></svg>
+                   <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/fargospizzacompany/" class=""> 
+                       <svg xmlns="http://www.w3.org/2000/svg" class="h-24 w-24 px-4 transition ease-in-out duration-300 hover:text-gray-600 active:text-gray-400" fill="currentColor" viewBox="0 0 24 24"><path d="M14.829 6.302c-.738-.034-.96-.04-2.829-.04s-2.09.007-2.828.04c-1.899.087-2.783.986-2.87 2.87-.033.738-.041.959-.041 2.828s.008 2.09.041 2.829c.087 1.879.967 2.783 2.87 2.87.737.033.959.041 2.828.041 1.87 0 2.091-.007 2.829-.041 1.899-.086 2.782-.988 2.87-2.87.033-.738.04-.96.04-2.829s-.007-2.09-.04-2.828c-.088-1.883-.973-2.783-2.87-2.87zm-2.829 9.293c-1.985 0-3.595-1.609-3.595-3.595 0-1.985 1.61-3.594 3.595-3.594s3.595 1.609 3.595 3.594c0 1.985-1.61 3.595-3.595 3.595zm3.737-6.491c-.464 0-.84-.376-.84-.84 0-.464.376-.84.84-.84.464 0 .84.376.84.84 0 .463-.376.84-.84.84zm-1.404 2.896c0 1.289-1.045 2.333-2.333 2.333s-2.333-1.044-2.333-2.333c0-1.289 1.045-2.333 2.333-2.333s2.333 1.044 2.333 2.333zm-2.333-12c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.958 14.886c-.115 2.545-1.532 3.955-4.071 4.072-.747.034-.986.042-2.887.042s-2.139-.008-2.886-.042c-2.544-.117-3.955-1.529-4.072-4.072-.034-.746-.042-.985-.042-2.886 0-1.901.008-2.139.042-2.886.117-2.544 1.529-3.955 4.072-4.071.747-.035.985-.043 2.886-.043s2.14.008 2.887.043c2.545.117 3.957 1.532 4.071 4.071.034.747.042.985.042 2.886 0 1.901-.008 2.14-.042 2.886z"/></svg>
                     </a>
                 </div>
             </div>
@@ -849,7 +861,7 @@
                 <h4 class="text-2xl">Location</h4>
                 <p class="text-xs mt-2">2910 E Platte</p>
                 <p class="text-xs">Colorado Springs, Colorado 80909</p>
-                <p class="text-xs"><a href="tel:+17194735540">(719)473-5540</a></p>
+                <p class="text-xs"><a href="tel:+17194735540" class="transition ease-in-out duration-300 hover:text-yellow-600 active:text-yellow-50">(719)473-5540</a></p>
             </div>
             <div class="mr-8 ml-auto block">
                 <h4 class="text-2xl">Hours</h4>
